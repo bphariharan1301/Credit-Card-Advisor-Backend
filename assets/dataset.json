@@ -1,0 +1,322 @@
+[
+  {
+    "card_name": "HDFC Regalia",
+    "bank": "HDFC",
+    "features": [
+      "airport lounge access",
+      "fuel cashback",
+      "international lounge",
+      "no annual fee"
+    ],
+    "annual_fee": "1000",
+    "welcome_offer": "2500 points",
+    "joining_fee": "1000",
+    "reward_rate": "1.5%",
+    "card_type": "lifestyle",
+    "summary": "Great for travelers with multiple lounge access benefits"
+  },
+  {
+    "card_name": "SBI SimplyCLICK",
+    "bank": "SBI",
+    "features": [
+      "online shopping cashback",
+      "movie ticket discounts",
+      "fuel surcharge waiver",
+      "low annual fee"
+    ],
+    "annual_fee": "499",
+    "welcome_offer": "500 cashback",
+    "joining_fee": "499",
+    "reward_rate": "5% on online shopping",
+    "card_type": "cashback",
+    "summary": "Perfect for online shopping enthusiasts with high cashback rates"
+  },
+  {
+    "card_name": "ICICI Amazon Pay",
+    "bank": "ICICI",
+    "features": [
+      "Amazon Prime membership",
+      "5% cashback on Amazon",
+      "2% on other categories",
+      "no annual fee"
+    ],
+    "annual_fee": "0",
+    "welcome_offer": "Amazon Prime membership",
+    "joining_fee": "0",
+    "reward_rate": "5% on Amazon, 2% others",
+    "card_type": "cashback",
+    "summary": "Ideal for Amazon Prime users with excellent online shopping rewards"
+  },
+  {
+    "card_name": "Axis Bank Magnus",
+    "bank": "Axis Bank",
+    "features": [
+      "golf privileges",
+      "airport lounge access",
+      "hotel partnerships",
+      "dining benefits"
+    ],
+    "annual_fee": "12500",
+    "welcome_offer": "25000 points",
+    "joining_fee": "12500",
+    "reward_rate": "12 points per ₹200",
+    "card_type": "premium",
+    "summary": "Ultra-premium card with exclusive lifestyle and travel benefits"
+  },
+  {
+    "card_name": "Kotak 811 #Dream Different",
+    "bank": "Kotak Mahindra",
+    "features": [
+      "zero annual fee",
+      "fuel surcharge waiver",
+      "movie discounts",
+      "dining offers"
+    ],
+    "annual_fee": "0",
+    "welcome_offer": "1000 points",
+    "joining_fee": "0",
+    "reward_rate": "1% on all spends",
+    "card_type": "entry-level",
+    "summary": "No-frills card perfect for first-time credit card users"
+  },
+  {
+    "card_name": "HDFC Millennia",
+    "bank": "HDFC",
+    "features": [
+      "online shopping cashback",
+      "OTT subscription benefits",
+      "no foreign exchange markup",
+      "cashback on utilities"
+    ],
+    "annual_fee": "1000",
+    "welcome_offer": "1000 cashback",
+    "joining_fee": "1000",
+    "reward_rate": "5% on online shopping",
+    "card_type": "lifestyle",
+    "summary": "Designed for millennials with focus on digital spending and entertainment"
+  },
+  {
+    "card_name": "ICICI Sapphiro",
+    "bank": "ICICI",
+    "features": [
+      "airport lounge access",
+      "travel insurance",
+      "golf privileges",
+      "concierge services"
+    ],
+    "annual_fee": "5000",
+    "welcome_offer": "10000 points",
+    "joining_fee": "5000",
+    "reward_rate": "2 points per ₹100",
+    "card_type": "premium",
+    "summary": "Premium travel card with comprehensive insurance and luxury benefits"
+  },
+  {
+    "card_name": "SBI BPCL Octane",
+    "bank": "SBI",
+    "features": [
+      "fuel cashback",
+      "BPCL benefits",
+      "dining discounts",
+      "movie ticket offers"
+    ],
+    "annual_fee": "499",
+    "welcome_offer": "500 fuel points",
+    "joining_fee": "499",
+    "reward_rate": "7% on fuel at BPCL",
+    "card_type": "fuel",
+    "summary": "Specialized fuel card offering high rewards on BPCL fuel purchases"
+  },
+  {
+    "card_name": "American Express Gold",
+    "bank": "American Express",
+    "features": [
+      "airport lounge access",
+      "dining benefits",
+      "travel insurance",
+      "reward points"
+    ],
+    "annual_fee": "4500",
+    "welcome_offer": "4000 points",
+    "joining_fee": "4500",
+    "reward_rate": "1 point per ₹50",
+    "card_type": "premium",
+    "summary": "Classic premium card with excellent dining and travel rewards program"
+  },
+  {
+    "card_name": "Yes Bank Marquee",
+    "bank": "Yes Bank",
+    "features": [
+      "unlimited airport lounge access",
+      "golf privileges",
+      "concierge services",
+      "travel benefits"
+    ],
+    "annual_fee": "10000",
+    "welcome_offer": "20000 points",
+    "joining_fee": "10000",
+    "reward_rate": "3% on all spends",
+    "card_type": "premium",
+    "summary": "High-end lifestyle card with unlimited lounge access and premium services"
+  },
+  {
+    "card_name": "IndusInd Tiger",
+    "bank": "IndusInd Bank",
+    "features": [
+      "movie ticket offers",
+      "dining discounts",
+      "fuel surcharge waiver",
+      "shopping benefits"
+    ],
+    "annual_fee": "750",
+    "welcome_offer": "750 cashback",
+    "joining_fee": "750",
+    "reward_rate": "1.5% on all spends",
+    "card_type": "lifestyle",
+    "summary": "Entertainment-focused card with great movie and dining benefits"
+  },
+  {
+    "card_name": "Standard Chartered Super Value Titanium",
+    "bank": "Standard Chartered",
+    "features": [
+      "cashback on groceries",
+      "fuel benefits",
+      "utility bill payments",
+      "dining rewards"
+    ],
+    "annual_fee": "750",
+    "welcome_offer": "1000 cashback",
+    "joining_fee": "750",
+    "reward_rate": "5% on groceries and utilities",
+    "card_type": "cashback",
+    "summary": "Value-oriented card with high cashback on essential spending categories"
+  },
+  {
+    "card_name": "RBL Bank Shoprite",
+    "bank": "RBL Bank",
+    "features": [
+      "online shopping cashback",
+      "BigBasket partnership",
+      "grocery benefits",
+      "zero forex markup"
+    ],
+    "annual_fee": "1000",
+    "welcome_offer": "1500 cashback",
+    "joining_fee": "1000",
+    "reward_rate": "10% on BigBasket",
+    "card_type": "shopping",
+    "summary": "Grocery and online shopping specialist with exceptional BigBasket rewards"
+  },
+  {
+    "card_name": "Axis Bank Ace",
+    "bank": "Axis Bank",
+    "features": [
+      "utility bill cashback",
+      "Google Pay rewards",
+      "Swiggy benefits",
+      "no annual fee"
+    ],
+    "annual_fee": "0",
+    "welcome_offer": "500 cashback",
+    "joining_fee": "0",
+    "reward_rate": "5% on bill payments",
+    "card_type": "cashback",
+    "summary": "Digital-first card optimized for online payments and utility bills"
+  },
+  {
+    "card_name": "HDFC Diners Club Black",
+    "bank": "HDFC",
+    "features": [
+      "unlimited airport lounge access",
+      "golf privileges",
+      "fine dining",
+      "luxury hotel benefits"
+    ],
+    "annual_fee": "10000",
+    "welcome_offer": "10000 points",
+    "joining_fee": "10000",
+    "reward_rate": "3.3% on all spends",
+    "card_type": "super premium",
+    "summary": "Ultra-luxury card with unlimited lounge access and exclusive dining privileges"
+  },
+  {
+    "card_name": "ICICI Coral",
+    "bank": "ICICI",
+    "features": [
+      "contactless payments",
+      "movie discounts",
+      "dining offers",
+      "fuel surcharge waiver"
+    ],
+    "annual_fee": "500",
+    "welcome_offer": "500 points",
+    "joining_fee": "500",
+    "reward_rate": "2 points per ₹100",
+    "card_type": "lifestyle",
+    "summary": "Affordable lifestyle card with balanced rewards across multiple categories"
+  },
+  {
+    "card_name": "SBI Prime",
+    "bank": "SBI",
+    "features": [
+      "airport lounge access",
+      "travel insurance",
+      "dining benefits",
+      "fuel rewards"
+    ],
+    "annual_fee": "2999",
+    "welcome_offer": "5000 points",
+    "joining_fee": "2999",
+    "reward_rate": "5 points per ₹100 on travel",
+    "card_type": "travel",
+    "summary": "Travel-focused card with comprehensive insurance and lounge benefits"
+  },
+  {
+    "card_name": "Citibank Rewards",
+    "bank": "Citibank",
+    "features": [
+      "thank you points",
+      "fuel benefits",
+      "dining rewards",
+      "international acceptance"
+    ],
+    "annual_fee": "1000",
+    "welcome_offer": "2500 points",
+    "joining_fee": "1000",
+    "reward_rate": "2 points per ₹100",
+    "card_type": "rewards",
+    "summary": "Flexible rewards card with easy redemption options and global acceptance"
+  },
+  {
+    "card_name": "BOB Premier",
+    "bank": "Bank of Baroda",
+    "features": [
+      "airport lounge access",
+      "fuel surcharge waiver",
+      "dining discounts",
+      "travel insurance"
+    ],
+    "annual_fee": "1500",
+    "welcome_offer": "2000 points",
+    "joining_fee": "1500",
+    "reward_rate": "1% on all spends",
+    "card_type": "premium",
+    "summary": "Government bank premium offering with solid travel and lifestyle benefits"
+  },
+  {
+    "card_name": "IDFC First Wealth",
+    "bank": "IDFC First Bank",
+    "features": [
+      "unlimited airport lounge access",
+      "golf benefits",
+      "concierge services",
+      "insurance coverage"
+    ],
+    "annual_fee": "12500",
+    "welcome_offer": "25000 points",
+    "joining_fee": "12500",
+    "reward_rate": "6 points per ₹100",
+    "card_type": "super premium",
+    "summary": "Wealth management card with unlimited lounge access and premium lifestyle services"
+  }
+]
